@@ -1,4 +1,4 @@
-# Forked from : Luke's Auto-Rice Bootstraping Scripts (LARBS)
+# Forked from: Luke's Auto-Rice Bootstraping Scripts (LARBS)
 
 
 ## Installation:
